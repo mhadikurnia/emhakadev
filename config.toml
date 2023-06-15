@@ -1,4 +1,4 @@
 baseURL = "https://emhakadev.id/"
 languageCode = "en-us"
 title = "EmhakaDev"
-theme = "ananke"
+theme = "hugo-developer-portfolio"
