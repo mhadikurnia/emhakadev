@@ -18,7 +18,7 @@ Plugins
   URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
 
 
- navigation
+navigation
 [menu]
 
   [[menu.main]]
@@ -44,7 +44,7 @@ Plugins
 
 [params]
 home = "Home"
- Meta data
+Meta data
 description = "The website of Sam Robbins, 2nd Year Computer Science Student at Durham University"
 author = "Sam Robbins"
 
