@@ -1,4 +1,4 @@
-baseURL = "https://emhakadev.id/"
+baseURL = "https://emhakadev.vercel.app/"
 languageCode = "en-us"
 title = "EmhakaDev"
 theme = "hugo-developer-portfolio"
